@@ -1,3 +1,3 @@
 # Delete Branch Test
 
-Let's see how this action works :)
+URL: https://codezine.jp/article/detail/11450?p=3
